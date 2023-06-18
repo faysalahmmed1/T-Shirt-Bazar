@@ -1,0 +1,24 @@
+.Grandpa {
+    border: 2px solid rebeccapurple;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.Grandpa div {
+    border: 2px solid rebeccapurple;
+    border-radius: 10px;
+    margin: 50px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+
+}
+
+.button-style {
+    background-color: rgb(5, 1, 1);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}

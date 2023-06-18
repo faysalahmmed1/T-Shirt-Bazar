@@ -1,0 +1,31 @@
+.header-site{
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+}
+.header-site2{
+    margin-top: 50px;
+    text-align: center;
+    font-size: large;
+}
+.t-shirt-bazar {
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 10px;
+    font-size: 60px;
+    border-radius: 10px;
+    color: #fcfffd;
+    border: solid rgb(39, 30, 30);
+    background-color: rgb(66, 65, 63);
+
+}
+
+nav a {
+    text-decoration: none;
+    margin-right: 20px;
+    color: rgb(0, 0, 0);
+
+}
+
+nav a:hover {
+    color: rgb(189, 219, 20);
+}
